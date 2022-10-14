@@ -1,0 +1,1 @@
+O objetivo desta API é consumir dados da API do climatempo (site de previsão do tempo) e trazer informações climaticas da cidade de Lorena-SP, com foco em saber a probabilidade de chuva e uma breve descrição de como será o dia.
