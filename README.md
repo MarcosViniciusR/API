@@ -1,0 +1,2 @@
+O objetivo desta APP é consumir dados da API do climatempo (site de previsão do tempo) e trazer informações climáticas da cidade de Lorena-SP, com foco em saber a probabilidade de chuva e uma breve descrição de como será o dia.
+Obs: O valor da api_key está alterado apenas para manter a segurança do acesso. Caso queiram testar o APP, sugiro que resgatem um código token no site: https://www.climatempo.com.br/
